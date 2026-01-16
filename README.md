@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Test
+# Typing Speed Test
 
 A clean, modern **Typing Speed Test web application** built using **HTML, CSS, and vanilla JavaScript**.  
 This project focuses on smooth user experience, real-time feedback, and a polished UI while keeping the code simple and beginner-friendly.
@@ -7,32 +7,32 @@ This is a **frontend-only learning project** and is still open for future improv
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⏱️ **Countdown Modes**: 15s / 30s / 60s  
-- 🧠 **Difficulty Levels**  
+- **Countdown Modes**: 15s / 30s / 60s  
+- **Difficulty Levels**  
   - Easy – simple vocabulary, beginner-friendly  
   - Medium – natural sentences with balanced complexity  
   - Hard – long paragraphs with complex vocabulary and punctuation  
-- 🔁 **Continuous Text Flow**  
+- **Continuous Text Flow**  
   Text keeps loading automatically until the timer ends  
-- 📊 **Real-time Statistics**  
+- **Real-time Statistics**  
   - Words Per Minute (WPM)  
   - Accuracy (%)  
   - Remaining time  
-- 🎮 **Sound Effects**  
+- **Sound Effects**  
   - Key press feedback  
   - Error sound  
   - Completion sound  
-- 🌗 **Dark Mode & Light Mode**  
+- **Dark Mode & Light Mode**  
   - Smooth theme transition  
   - Theme preference saved using `localStorage`  
-- 🛑 **Anti-cheat Protection**  
+- **Anti-cheat Protection**  
   - Copy & paste disabled  
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 - HTML – Structure  
 - CSS – Styling, animations, theming  
@@ -44,7 +44,7 @@ No backend.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 typing-speed-test/  
 │── index.html  
@@ -53,7 +53,7 @@ typing-speed-test/
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. Select a time limit and difficulty level  
 2. Start typing — the timer begins on the first keystroke  
@@ -63,13 +63,13 @@ typing-speed-test/
 
 ---
 
-## 🌐 Hosting
+## Hosting
 
 This project is suitable for **GitHub Pages** hosting.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Built for learning and practice purposes  
 - Code is intentionally kept clean and readable  
@@ -77,6 +77,6 @@ This project is suitable for **GitHub Pages** hosting.
 
 ---
 
-## 📜 License
+## License
 
 Open-source and free to use for learning and personal projects.
