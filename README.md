@@ -14,19 +14,24 @@ This is a **frontend-only learning project** and is still open for future improv
   - Easy – simple vocabulary, beginner-friendly  
   - Medium – natural sentences with balanced complexity  
   - Hard – long paragraphs with complex vocabulary and punctuation  
+
 - **Continuous Text Flow**  
   Text keeps loading automatically until the timer ends  
+
 - **Real-time Statistics**  
   - Words Per Minute (WPM)  
   - Accuracy (%)  
   - Remaining time  
+
 - **Sound Effects**  
   - Key press feedback  
   - Error sound  
   - Completion sound  
+
 - **Dark Mode & Light Mode**  
   - Smooth theme transition  
   - Theme preference saved using `localStorage`  
+
 - **Anti-cheat Protection**  
   - Copy & paste disabled  
 
