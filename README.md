@@ -1,9 +1,9 @@
 # Typing Speed Test
 
-A clean, modern **Typing Speed Test web application** built using **HTML, CSS, and vanilla JavaScript**.  
-This project focuses on smooth user experience, real-time feedback, and a polished UI while keeping the code simple and beginner-friendly.
+A clean, modern **Typing Speed Test web application** built using **HTML, CSS, and vanilla JavaScript**
+This project focuses on smooth user experience, real-time feedback, and a polished UI while keeping the code simple and beginner-friendly
 
-This is a **frontend-only learning project** and is still open for future improvements.
+This is a **frontend-only learning project** and is still open for future improvements
 
 ---
 
@@ -43,9 +43,9 @@ This is a **frontend-only learning project** and is still open for future improv
 - CSS – Styling, animations, theming  
 - JavaScript (Vanilla) – Game logic, timer, stats  
 
-No frameworks.  
-No external libraries.  
-No backend.
+No frameworks
+No external libraries
+No backend
 
 ---
 
@@ -70,7 +70,7 @@ typing-speed-test/
 
 ## Hosting
 
-This project is suitable for **GitHub Pages** hosting.
+This project is suitable for **GitHub Pages** hosting
 
 ---
 
@@ -84,4 +84,4 @@ This project is suitable for **GitHub Pages** hosting.
 
 ## License
 
-Open-source and free to use for learning and personal projects.
+Open-source and free to use for learning and personal projects
